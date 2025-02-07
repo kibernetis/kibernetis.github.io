@@ -1,1 +1,66 @@
+* {
+    /* iskaiciuoja remelius i elemento ploti */
+    box-sizing: border-box;
+}
+/*------------------*/
+html,body{
+    height:297mm;
+    width:210mm;
+}
+body{
+	margin: 5px;
+}
+h1 {
+    color: red;
+}
+.aukstis-100 {
+    height: 100px;
+}
+.aukstis-300 {
+    height: 300px;
+}
+.aukstis-350 {
+    height: 350px;
+}
+.aukstis-500 {
+    height: 500px;
+}
+.meniu {
+    background-color: #E2DDDD;
+    margin: 0px 15px 0px 15px;
 
+}
+.virsus-kaire {
+    #background-color: #393738;
+    background-color: #333A45;
+    color: white;
+    font-weight: bold;
+
+}
+.apacia-kaire {
+    #background-color: #4F4D4E;
+    background-color: #333A45;
+    color: white;
+    /* font-weight: bold; */
+}
+
+i {
+    margin-top: 5px;
+}
+/*  */
+main div h2 {
+    background-color: #393738;
+    color: white;
+    padding-bottom: 6px;
+}
+.darbas {
+    color: white;
+    font-size: 36px;
+    position: absolute;
+    top: -3px;
+    left: 20px;
+}
+.storas {
+        font-weight: bold;
+        font-size: 17px;
+}
